@@ -1,0 +1,10 @@
+
+\begin{tikzpicture}[>=latex,line join=bevel,]
+\tikzstyle{every state}= 			  [draw=blue!50,very thick,fill=blue!20]%
+\node (q_{1}) at (169bp,22.246bp) [state, accepting] {$q_{1}$};
+  \node (q_{0}) at (41bp,22.246bp) [state, initial] {$q_{0}$};
+  \draw [->] (q_{0}) ..controls (93.51bp,22.246bp) and (105.91bp,22.246bp)  .. node[auto] {$0$} (q_{1});
+  \draw [->] (q_{1}) ..controls (130.09bp,2.9259bp) and (114.44bp,-1.2463bp)  .. (100bp,1.2463bp) .. controls (93.531bp,2.3632bp) and (86.832bp,4.1213bp)  .. node[auto] {$1$} (q_{0});
+%
+\end{tikzpicture}
+
