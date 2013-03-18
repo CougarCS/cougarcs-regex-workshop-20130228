@@ -1,0 +1,14 @@
+java.util.regex (Java 2 Platform SE 5.0)
+	http://java.sun.com/j2se/1.5.0/docs/api/java/util/regex/package-summary.html
+
+Pattern (Java 2 Platform SE 5.0)
+	http://java.sun.com/j2se/1.5.0/docs/api/java/util/regex/Pattern.html
+
+Lesson: Regular Expressions (The Java(TM) Tutorials > Essential Classes)
+	http://java.sun.com/docs/books/tutorial/essential/regex/
+
+Regular Expressions and the Java Programming Language
+	http://java.sun.com/developer/technicalArticles/releases/1.4regex/
+
+perlre - perldoc.perl.org
+	http://perldoc.perl.org/perlre.html
