@@ -1,0 +1,9 @@
+Slides and code from the regular expression workshop for CougarCS on 2013-02-28. Contains:
+
+* regex-presentation.pdf : the slides
+* lang/ : example code
+* regex-lesson/ : a lesson set that goes through the majority of
+  Perl-compatible regular expressions using the Java standard library's regular
+  expression engine.
+
+You can use `make run` to build and run all the language examples.
